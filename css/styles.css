@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 6em;
   text-align: center;
 }
 
@@ -13,14 +13,21 @@ ul {
 }
 
 h2 {
-  color: darkblue;
+  font-size: 2em;
+
 }
 
 a {
-  text-decoration:
+  font-style: italic;
+  color: blue;
+  text-decoration: none;
 }
 
 p {
-  width: 50;
+  width: 50%;
 
+}
+
+img {
+  width: 50%;
 }
