@@ -1,0 +1,34 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: cornflowerblue;
+}
+
+h1 {
+  font-size: 6em;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h2 {
+  font-size: 2em;
+
+}
+
+a {
+  font-style: italic;
+  color: blue;
+  text-decoration: none;
+}
+
+p {
+  width: 50%;
+
+}
+
+img {
+  width: 50%;
+}
